@@ -81,7 +81,7 @@ cat<<EOF
 Menu for exploring Istio Resiliency and Security Features
 --------------------------------------------------------------
 Please enter number to select your choice:
- (0) Switch between Preview, Execute and Delete modes
+ (0) Switch between Preview, Create and Delete modes
  (1) Install tools 
  (2) Enable APIs
  (3) Create Kubernetes cluster
