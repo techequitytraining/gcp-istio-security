@@ -1,4 +1,4 @@
-# Istio Service Mesh Security Features Demo on GKE
+# Istio Service Mesh Security on GKE Demo Script
 
 ## 🛡️ Explore Robust Security with Open Source Istio on Google Kubernetes Engine
 
